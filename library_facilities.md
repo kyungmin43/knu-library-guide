@@ -39,3 +39,12 @@
 ## 2. 시설물 이용 안내
 경북대학교 도서관에서는 학습과 자료 이용을 돕기 위해 다양한 시설물을 제공하고 있다.
 시설물은 도서관 앱 또는 홈페이지를 통해 예약할 수 있으며, 이용 시간과 이용 규정을 준수해야 한다.
+
+### 시설물 종류
+- 신관 1층~4층 스터디룸(S-Lounge, Study Room)
+- 신관 1층 U-Lounge(Smart Learning Room)
+- 구관 1층 CRETEC Zone(Study Room)
+- 구관 3층 스터디 라운지(Study Room)
+- 구관 3층 중앙홀(1인 Study Room)
+
+
