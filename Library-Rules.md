@@ -103,3 +103,5 @@
 | 12. 기타 공중도덕 위반 | 경고 | 10일 출입제한 | 30일 출입제한 |
 
 --
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b1f2b5f1-1dcd-47f0-8f94-bb6082456fc4" />
+
