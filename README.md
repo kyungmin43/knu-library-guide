@@ -9,7 +9,7 @@
 1. [층별 안내](knu-library-floor-guide.md)
 2. [좌석 및 시설물 이용 안내](seat-facility.md)
 3. [자료 이용 안내](Using-Books.md)
-4. [이용 규칙](Library-Rules.md)
+4. [이용 규칙](KNU_library_rules.md)
 5. [도서관 앱 및 관련 서비스](Knu-library-service.md)
 
 ## 비전 및 전략
